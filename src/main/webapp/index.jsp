@@ -25,7 +25,7 @@
 
 						<li>
 							<h3>Actividad:</h3>
-							<p>Capacitación en Jenkis</p>
+							<p>Capacitaci&oacute;n en Jenkis</p>
 						</li>
 					</ul>
 				</div>
